@@ -67,7 +67,7 @@ export default function Home() {
         <div>
           <p>
             {/*{firstItem.aboutme}*/}
-              Goldsmiths Computational Arts MFA Show 2025
+              Goldsmiths Computational Arts MA Show 2025
           </p>
           <br/>
           <h1 className="text-2xl">
